@@ -32,13 +32,10 @@
             <artifactId>logstash-logback-encoder</artifactId>
             <version>6.6</version>
         </dependency>
-<<<<<<< HEAD
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-security</artifactId>
         </dependency>
-=======
->>>>>>> 3ae5c8bb04d53ed60597b634479265e6c78cb6c7
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
